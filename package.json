@@ -1,0 +1,10 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library management system for Domasi College of Education",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "install:client": "cd client && npm install"
+  }
+}
